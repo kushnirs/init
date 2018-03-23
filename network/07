@@ -1,0 +1,2 @@
+#!/bin/sh
+nslookup www.slash16.org 8.8.8.8 | grep 'Address' | sed 1d
