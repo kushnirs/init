@@ -1,0 +1,4 @@
+#!/bin/sh
+nslookup slash16.org
+curl -s https://www.whoismyisp.org/ip/216.137.61.196 | grep '<p class="isp">'
+Amazon.com

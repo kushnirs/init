@@ -1,2 +1,2 @@
 #!/bin/sh
-nslookup www.slash16.org | grep 'Server'
+nslookup slash16.org | grep 'Server'
