@@ -1,2 +1,1 @@
-#!/bin/sh
 dig -x 10.51.1.81 +short

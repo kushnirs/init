@@ -1,0 +1,2 @@
+sudo vi /etc/hostname
+sudo vi /etc/hosts
