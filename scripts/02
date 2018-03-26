@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 crontab -l > ~/cron_script
 echo ' 0 4 * * 0 sudo apt-get update >> /var/log/update_script.log; sudo apt-get upgrade >> /var/log/update_script.log' >> ~/cron_script
 crontab ~/cron_script
