@@ -1,1 +1,1 @@
-ecgo '46.19.122.85 intra.42.fr' to /etc/hosts
+echo '46.19.122.85 intra.42.fr' to /etc/hosts
