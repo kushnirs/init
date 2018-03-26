@@ -1,1 +1,4 @@
-host www.42.fr
+# host www.42.fr
+www-lb.42.fr has address 163.172.250.13
+www-lb.42.fr has address 163.172.250.12
+www-lb.42.fr has address 163.172.250.11

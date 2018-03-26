@@ -1,3 +1,1 @@
-# sudo ssh-keygen
-# cat ~/.ssh/id_rsa – Your private RSA key
-# cat ~/.ssh/id_rsa.pub – Your public RSA key
+~/.ssh/authorized_keys

@@ -1,1 +1,1 @@
-cat /etc/resolv.conf | grep nameserver
+cat /etc/resolv.conf

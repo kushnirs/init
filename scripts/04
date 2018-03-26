@@ -1,0 +1,7 @@
+#!/bin/sh
+crontab -l > ~/cron_script
+echo '0 0 * * * \
+	var1 = md5sum\
+	' >> ~/cron_script
+crontab ~/cron_script
+rm -rf ~/cron_script

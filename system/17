@@ -1,1 +1,1 @@
-iptables -t nat -L
+sudo iptables  -L

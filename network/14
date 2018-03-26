@@ -1,1 +1,2 @@
-dig -x 10.51.1.81 +short
+# dig -x 10.51.1.81 +short
+ldap-proxy.42.fr
